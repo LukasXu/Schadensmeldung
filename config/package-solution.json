@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "schadensmeldung-webpart-client-side-solution",
+    "id": "2948d3b7-30dd-4b06-84b4-97893359652c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "schadensmeldung-webpart description"
+      },
+      "longDescription": {
+        "default": "schadensmeldung-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "schadensmeldung-webpart Feature",
+        "description": "The feature that activates elements of the schadensmeldung-webpart solution.",
+        "id": "2eb8bf07-673a-46f2-a7e1-c7453c1939de",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/schadensmeldung-webpart.sppkg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "schadensmeldung-webpart",
+    "libraryId": "2948d3b7-30dd-4b06-84b4-97893359652c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "schadensmeldung-webpart",
+    "solutionShortDescription": "schadensmeldung-webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
